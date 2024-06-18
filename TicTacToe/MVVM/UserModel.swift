@@ -7,6 +7,7 @@
 
 import Foundation
 
+//User Model
 struct User: Identifiable {
     let id: UUID
     let name: String
